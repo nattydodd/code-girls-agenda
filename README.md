@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome FIS Code Girls!
 
-You can use the [editor on GitHub](https://github.com/nattydodd/code-girls-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are super excited that you decided to join us in learning how to code. It is a lot of fun, and is easy to learn once you get started. It is important that everyone helps eachother out, and that you ask questions if you are stuck! The best developers are the ones that ask for help often :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Before We Get Started:
 
-### Markdown
+Please make sure you have created your [github account](https://github.com/), and have downloaded a text editor such as [Atom](https://atom.io/). If you don't have the [Chrome browser](https://www.google.com/chrome/) on your computer, we recommend downloading that too since we will be using it for most of our examples. If you get stuck with any of these steps, please let us know before we start with the workshop.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Agenda for Today
 
-```markdown
-Syntax highlighted code block
+**1. Inspecting the Web**\
+What makes up our favourite web pages? What tools do developers use to help visualize how their code will look in the browser?
 
-# Header 1
-## Header 2
-### Header 3
+Activity #1: Go to your favourite website and inspect it. How would you make it better?
 
-- Bulleted
-- List
+**2. Building a Webpage Together**\
+Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
 
-1. Numbered
-2. List
+Activity #2: Together we will create the Code Girls webpage.
 
-**Bold** and _Italic_ and `Code` text
+**3. Build Your Own Webpage!**\
+So now how do we create our own webpage? Plan out how you want your website to look by drawing it on paper first. 
 
-[Link](url) and ![Image](src)
-```
+Activity #3: Create your custom profile page. Try to use the following elements:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- div, p, h1, img and ul
+ 
+...and the following CSS properties:
 
-### Jekyll Themes
+- Display, color, background, font-size, font-family, padding, margin
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nattydodd/code-girls-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Challenge: Can you make your website elements change when you hover the mouse over them? What other elements and styles can you use?
 
-### Support or Contact
+Hint: https://www.w3schools.com/cssref/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**4. Make Your Website Go Live!**\
+Now let's share your page with the world! We will now learn the easiest way to get your website up and running on the web so others can see it too. 
+
+Activity #4: Upload your files to Github Pages. Once it's live, we will link each person's url to the Code Girls Website that we made together in Part 2. 
+
+
+### & That's a wrap!
+
+Thanks everyone for joining. If you would like to learn more and keep practicing, check out these cool tutorials and resources:
+
+
