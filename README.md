@@ -8,17 +8,17 @@ Please make sure you have created your [github account](https://github.com/), an
 
 ### Agenda for Today
 
-**1. Inspecting the Web**\
+**1. Inspecting the Web**
 What makes up our favourite web pages? What tools do developers use to help visualize how their code will look in the browser?
 
 Activity #1: Go to your favourite website and inspect it. How would you make it better?
 
-**2. Building a Webpage Together**\
+**2. Building a Webpage Together**
 Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
 
 Activity #2: Together we will create the Code Girls webpage.
 
-**3. Build Your Own Webpage!**\
+**3. Build Your Own Webpage!**
 So now how do we create our own webpage? Plan out how you want your website to look by drawing it on paper first. 
 
 Activity #3: Create your custom profile page. Try to use the following elements:
@@ -31,9 +31,9 @@ Activity #3: Create your custom profile page. Try to use the following elements:
 
 Challenge: Can you make your website elements change when you hover the mouse over them? What other elements and styles can you use?
 
-Hint: https://www.w3schools.com/cssref/
+[Pssst! Here's a helpful hint!](https://www.w3schools.com/cssref/)
 
-**4. Make Your Website Go Live!**\
+**4. Make Your Website Go Live!**
 Now let's share your page with the world! We will now learn the easiest way to get your website up and running on the web so others can see it too. 
 
 Activity #4: Upload your files to Github Pages. Once it's live, we will link each person's url to the Code Girls Website that we made together in Part 2. 
