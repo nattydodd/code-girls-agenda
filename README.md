@@ -17,6 +17,14 @@ _Activity #1: Go to your favourite website and inspect it!_
 * How would you make it better?
 * Play around with the code and see what funny changes you can make to the text and the styles.
 
+Here's some more fun sites for inspiration:
+* https://www.theworldsworstwebsiteever.com/
+* https://insidethehead.co/ 
+* http://oatthegoat.co.nz/ 
+* https://crypton.trading/
+* https://christopherlis.com/projects/particle-surge
+* http://eeerik.com/ 
+
 **2. Building a Webpage Together**
 
 > Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
