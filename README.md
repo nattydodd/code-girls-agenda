@@ -12,7 +12,8 @@ Please make sure you have created your [github account](https://github.com/), an
 
 > What makes up our favourite web pages? What tools do developers use to help visualize how their code will look in the browser?
 
-- [x] _Activity #1: Go to your favourite website and inspect it!_
+_Activity #1: Go to your favourite website and inspect it!_
+
 * How would you make it better?
 * Play around with the code and see what funny changes you can make to the text and the styles.
 
@@ -20,7 +21,8 @@ Please make sure you have created your [github account](https://github.com/), an
 
 > Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
 
-- [x] _Activity #2: Together we will create the Code Girls webpage._
+_Activity #2: Together we will create the Code Girls webpage._
+
 1. Start by looking at/finding a design that we want to create. 
 2. Draw out the elements we need on paper. 
 3. Write the HTML which creates the elements. 
@@ -80,7 +82,7 @@ Element Cheat Sheet:
 
 > So now how do we create our own webpage? Plan out how you want your website to look by drawing it on paper first. 
 
-- [x] _Activity #3: Create your custom profile page._
+_Activity #3: Create your custom profile page._
 
 * You can use the base we created in the previous section, or start again from scratch! Go crazy, be creative and make it your own.
 
@@ -100,7 +102,8 @@ Challenge: Can you make your website elements change when you hover the mouse ov
 
 > Now let's share your page with the world! We will now learn the easiest way to get your website up and running on the web so others can see it too. 
 
-- [x] _Activity #4: Upload your files to Github Pages._
+_Activity #4: Upload your files to Github Pages._
+
 * Login to your github account and create a new repository (project). 
 * When you are happy with your webpage, drag in the files and 'commit' them. You will see the link to your live website!
 * Once it's live, we will link each person's url to the Code Girls Website that recreated together in Part 2.
@@ -111,13 +114,12 @@ Challenge: Can you make your website elements change when you hover the mouse ov
 
 > Thanks everyone for joining. We hope you enjoyed it! If you would like to learn more and keep practicing, check out these cool tutorials and resources:
 
-* https://www.w3schools.com
-* https://www.theodinproject.com/courses/web-development-101
-* https://www.codecademy.com/
-* https://www.youtube.com/watch?v=UB1O30fR-EE&t=475s
-* https://www.youtube.com/watch?v=yfoY53QXEnI
-* https://www.youtube.com/user/gotreehouse
-* https://www.youtube.com/user/learncodeacademy
+* [w3schools - The wikipedia of HTML & CSS](https://www.w3schools.com)
+* [Web Development 101](https://www.theodinproject.com/courses/web-development-101)
+* [Code Academy (how Natalie started learning to code!)](https://www.codecademy.com/)
+* [CSS for beginners youtube video](https://www.youtube.com/watch?v=UB1O30fR-EE&t=475s)
+* [HTML for beginners youtube video](https://www.youtube.com/watch?v=yfoY53QXEnI)
+* [Treehouse Web Development Tutorials - Youtube Channel](https://www.youtube.com/user/gotreehouse)
+* [Becoming a Web Developer in 2018 - Youtube Channel](https://www.youtube.com/user/learncodeacademy)
 
-> Also, come to our meetups! 
-> https://www.meetup.com/Women-Techmakers-Frankfurt_Rhein-Main/
+> Also, come to our [meetups](https://www.meetup.com/Women-Techmakers-Frankfurt_Rhein-Main/)!
