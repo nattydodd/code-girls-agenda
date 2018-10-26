@@ -27,7 +27,7 @@ Here's some more fun sites for inspiration:
 
 **2. Building a Webpage Together**
 
-> Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
+> Let's take a look at this Code Girls [webpage](https://nattydodd.github.io/code-girls/). What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
 
 _Activity #2: Together we will create the Code Girls webpage._
 
