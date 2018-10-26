@@ -13,18 +13,18 @@ Please make sure you have created your [github account](https://github.com/), an
 > What makes up our favourite web pages? What tools do developers use to help visualize how their code will look in the browser?
 
 - [x] _Activity #1: Go to your favourite website and inspect it!_
-> How would you make it better?
-> Play around with the code and see what funny changes you can make to the text and the styles.
+* How would you make it better?
+* Play around with the code and see what funny changes you can make to the text and the styles.
 
 **2. Building a Webpage Together**
 
 > Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
 
 - [x] _Activity #2: Together we will create the Code Girls webpage._
-> We will start by looking at a design we want to create. 
-> Next, we draw out the elements we need on paper. 
-> Third, we write the HTML. 
-> Fourth, the fun part - we add the styles!
+1. Start by looking at/finding a design that we want to create. 
+2. Draw out the elements we need on paper. 
+3. Write the HTML which creates the elements. 
+4. Lastly, the fun part - add the CSS (styles)!
 
 Element Cheat Sheet:
 
@@ -82,7 +82,7 @@ Element Cheat Sheet:
 
 - [x] _Activity #3: Create your custom profile page._
 
-> You can use the base we created in the previous section, or start again from scratch! Go crazy, be creative and make it your own.
+* You can use the base we created in the previous section, or start again from scratch! Go crazy, be creative and make it your own.
 
 Try to use the following elements:
 
@@ -101,10 +101,10 @@ Challenge: Can you make your website elements change when you hover the mouse ov
 > Now let's share your page with the world! We will now learn the easiest way to get your website up and running on the web so others can see it too. 
 
 - [x] _Activity #4: Upload your files to Github Pages._
-> Login to your github account and create a new repository (project). 
-> When you are happy with your webpage, drag in the files and 'commit' them. You will see the link to your live website!
-> Once it's live, we will link each person's url to the Code Girls Website that recreated together in Part 2.
-> Now you can share your link with your friends! Also, if you want to keep working and making changes, just copy your new code into the corresponding file on github and make a new commit.
+* Login to your github account and create a new repository (project). 
+* When you are happy with your webpage, drag in the files and 'commit' them. You will see the link to your live website!
+* Once it's live, we will link each person's url to the Code Girls Website that recreated together in Part 2.
+* Now you can share your link with your friends! Also, if you want to keep working and making changes, just copy your new code into the corresponding file on github and make a new commit.
 
 
 ### & That's a wrap!
