@@ -9,19 +9,82 @@ Please make sure you have created your [github account](https://github.com/), an
 ### Agenda for Today
 
 **1. Inspecting the Web**
-What makes up our favourite web pages? What tools do developers use to help visualize how their code will look in the browser?
 
-Activity #1: Go to your favourite website and inspect it. How would you make it better?
+> What makes up our favourite web pages? What tools do developers use to help visualize how their code will look in the browser?
+
+- [x] _Activity #1: Go to your favourite website and inspect it!_
+> How would you make it better?
+> Play around with the code and see what funny changes you can make to the text and the styles.
 
 **2. Building a Webpage Together**
-Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
 
-Activity #2: Together we will create the Code Girls webpage.
+> Let's take a look at this Code Girls webpage. What elements do you see? What styles do you see? Together we will learn about HTML & CSS, and how the work together to create a webpage.
+
+- [x] _Activity #2: Together we will create the Code Girls webpage._
+> We will start by looking at a design we want to create. 
+> Next, we draw out the elements we need on paper. 
+> Third, we write the HTML. 
+> Fourth, the fun part - we add the styles!
+
+Element Cheat Sheet:
+
+```
+<div>
+  I am used as a wrapper or container element. You can organize or group other elements inside me :)
+</div>
+```
+
+```
+<p>
+  I am a paragraph element. I can be used for any text that is not a title.
+</p>
+```
+
+```
+<h1>
+  I am a heading element. I am the biggest and most important heading. I usually can be found at the top of the page.
+</h1>
+
+<h2>
+  I am the second most important heading (sub-heading). 
+</h2>
+
+// There are heading elements starting from h1 (the biggest) until h6 (the tiniest).
+```
+
+```
+<ul>
+ <li>I am a list item!</li>
+ <li>I am another list item!</li>
+ <li>I am another list item!</li>
+</ul>
+
+// Here we have an 'unordered list' element
+```
+
+```
+<img src="image.png">
+
+// This is an image element. It doesn't need the closing tag because we don't need to put any content inside of it. The image has an attribute called 'src' (source), which tells it which image to show.
+```
+
+```
+<a href="www.google.com">
+  Click me!
+</a>
+
+// This is link element or 'anchor tag'. The 'href' attribute tells us the location to redirect to when we click.
+```
 
 **3. Build Your Own Webpage!**
-So now how do we create our own webpage? Plan out how you want your website to look by drawing it on paper first. 
 
-Activity #3: Create your custom profile page. Try to use the following elements:
+> So now how do we create our own webpage? Plan out how you want your website to look by drawing it on paper first. 
+
+- [x] _Activity #3: Create your custom profile page._
+
+> You can use the base we created in the previous section, or start again from scratch! Go crazy, be creative and make it your own.
+
+Try to use the following elements:
 
 - div, p, h1, img and ul
  
@@ -31,16 +94,30 @@ Activity #3: Create your custom profile page. Try to use the following elements:
 
 Challenge: Can you make your website elements change when you hover the mouse over them? What other elements and styles can you use?
 
-[Pssst! Here's a helpful hint!](https://www.w3schools.com/cssref/)
+[Pssst! Here's a helpful hint for more style properties!](https://www.w3schools.com/cssref/)
 
 **4. Make Your Website Go Live!**
-Now let's share your page with the world! We will now learn the easiest way to get your website up and running on the web so others can see it too. 
 
-Activity #4: Upload your files to Github Pages. Once it's live, we will link each person's url to the Code Girls Website that we made together in Part 2. 
+> Now let's share your page with the world! We will now learn the easiest way to get your website up and running on the web so others can see it too. 
+
+- [x] _Activity #4: Upload your files to Github Pages._
+> Login to your github account and create a new repository (project). 
+> When you are happy with your webpage, drag in the files and 'commit' them. You will see the link to your live website!
+> Once it's live, we will link each person's url to the Code Girls Website that recreated together in Part 2.
+> Now you can share your link with your friends! Also, if you want to keep working and making changes, just copy your new code into the corresponding file on github and make a new commit.
 
 
 ### & That's a wrap!
 
-Thanks everyone for joining. If you would like to learn more and keep practicing, check out these cool tutorials and resources:
+> Thanks everyone for joining. We hope you enjoyed it! If you would like to learn more and keep practicing, check out these cool tutorials and resources:
 
+* https://www.w3schools.com
+* https://www.theodinproject.com/courses/web-development-101
+* https://www.codecademy.com/
+* https://www.youtube.com/watch?v=UB1O30fR-EE&t=475s
+* https://www.youtube.com/watch?v=yfoY53QXEnI
+* https://www.youtube.com/user/gotreehouse
+* https://www.youtube.com/user/learncodeacademy
 
+> Also, come to our meetups! 
+> https://www.meetup.com/Women-Techmakers-Frankfurt_Rhein-Main/
